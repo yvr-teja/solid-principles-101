@@ -1,0 +1,13 @@
+# Maven
+target/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Java
+*.class
+
+# OS
+.DS_Store
